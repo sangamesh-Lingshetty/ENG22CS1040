@@ -1,0 +1,14 @@
+.filters-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-bottom: 20px;
+}
+
+.filter-item {
+  min-width: 200px;
+}
+
+.filter-button {
+  align-self: center;
+}
